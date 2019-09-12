@@ -1,0 +1,24 @@
+.header-cover-art{
+    background-image: url('https://cdn2.vectorstock.com/i/1000x1000/90/16/seamless-galaxy-pattern-vector-8099016.jpg');
+    background-color:  #032369;
+    width: 100%;/*TODO: why is that -that weird*/
+    height: 300px;
+}
+
+.content-body{  
+    height: 100%;
+}
+
+body { 
+    background-color: #fff7df;
+}
+
+
+
+.main-text{
+    text-align: center;
+}
+
+.skill-stats{
+    width: 70%;
+}
