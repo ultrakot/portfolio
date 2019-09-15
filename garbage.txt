@@ -1,0 +1,79 @@
+  <div class="content-body container-fluid">
+              
+
+
+                <!--intro text about myself-->
+                <div class="row im-a-programmer  align-items-center">
+                  <h1 class="main-text">Hi Imma Lorem ipsum dolor sit amet,</h1>
+                  <br>
+                  <h2 class="main-text">consectetur adipiscing elit</h2>
+                  <br>
+                  <h4 class="main-text">
+                        minim veniam, quis nostrud exercitation ullamco
+                  </h4>
+                </div>
+                <!--my Skills and stats-->
+                <!-- <div class="row"> -->
+                   
+                   <div class="row card skill-stats">
+                        
+                        <div class="card-body">
+                            <h5 class="card-title">so nisi ut aliquip ex ea commodo consequat?</h5>
+                            
+                                <ul class="card-text">
+                                   <li> TA gh </li>
+                                   <li> TA jhk</li>
+                                   <li> TA kjhk </li>
+                                   <li> TA jhk</li>
+                                </ul>
+                            
+                        </div>
+                   </div>
+                   <div class="row card skill-stats">
+                        
+                        <div class="card-body">
+                            <h5 class="card-title">so nisi ut aliquip ex ea commodo consequat?</h5>
+                            
+                                <ul class="card-text">
+                                   <li> TA gh </li>
+                                   <li> TA jhk</li>
+                                   <li> TA kjhk </li>
+                                   <li> TA jhk</li>
+                                </ul>
+                            
+                        </div>
+                   </div>
+                <!-- </div> -->
+                <!--my XP-->
+                <div class="row card skill-stats">
+                        
+                        <div class="card-body">
+                            <h5 class="card-title">so nisi ut aliquip ex ea commodo consequat?</h5>
+                            
+                                <ul class="card-text">
+                                   <li> 2123-32342 rgvfdbgfdbf </li>
+                                   <li>124312 -3243214 fdsfgds</li>
+                                   <li> 132-32144 fgfdgfdxs dfdggd </li>
+                                   <li>1213 -21321 dfjhdvf dsdsf dsgfsres</li>
+                                </ul>
+                            
+                        </div>
+                   </div>
+                <!--General nonsence-->
+                <div class="row card skill-stats">
+                        
+                        <div class="card-body">
+                            <h5 class="card-title">so nanimation ex ea commodo consequat?</h5>
+                            
+                            <!-- <div class="embed-responsive embed-responsive-21by9 card-text">
+                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+                            </div>
+                             -->
+                        </div>
+                   </div>
+                <!--Demi-->
+                <div class="row card skill-stats">
+                  <!-- <img src="https://static.scientificamerican.com/sciam/cache/file/D059BC4A-CCF3-4495-849ABBAFAED10456_source.jpg?w=590&h=800&526ED1E1-34FF-4472-B348B8B4769AB2A1"/>  -->
+                </div>
+                <br />
+            </div>
