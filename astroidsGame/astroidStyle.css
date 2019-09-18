@@ -1,0 +1,11 @@
+body{
+    background: black;
+}
+#container{
+    max-width: black;
+    margin: auto;
+}
+#my-canvas{
+    background: black;
+    border: 1px solid white;
+}
